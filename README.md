@@ -1,3 +1,25 @@
+
+
+Một dự án nguồn mở Việt Nam 🇻🇳khá thú vị dành cho những ai đang sử dụng Codex hoặc AI coding agent mỗi ngày
+
+Ý tưởng rất đơn giản:
+
+Biến Codex Desktop thành giao diện web chạy được ở mọi nơi. Bạn có thể truy cập Codex từ Linux, Windows, Android Termux hoặc thậm chí iPhone, iPad thông qua trình duyệt.
+
+Một số tính năng nổi bật:
+
+• Giao diện tối ưu cho điện thoại và máy tính bảng.
+• Hỗ trợ nhập liệu bằng giọng nói.
+• Cloudflare Tunnel tạo link truy cập từ xa chỉ trong vài giây.
+• Export/import toàn bộ project và lịch sử chat.
+• Telegram Bot Bridge để chat với Codex qua Telegram.
+• Hỗ trợ VPS, server headless và self-host hoàn toàn.
+
+Rất vui khi thấy cộng đồng nguồn mở Việt Nam ngày càng có thêm nhiều dự án thực tế và hữu ích như thế này.
+
+
+
+
 # 🔥 codexapp
 
 ### 🚀 Run Codex App UI Anywhere: Linux, Windows, or Termux on Android 🚀
